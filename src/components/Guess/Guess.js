@@ -1,4 +1,5 @@
 import React from "react";
+import { NUM_OF_GUESSES_ALLOWED } from "../../constants";
 import { checkGuess } from "../../game-helpers";
 import { range } from "../../utils";
 
